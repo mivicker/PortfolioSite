@@ -1,0 +1,40 @@
+a.project-button {
+	padding: 10px 20px;
+	font-weight: 700;
+	background-color: #c0e0de;
+	color: #000;
+	text-decoration: none;
+	display: block;
+	width: 300px;
+}
+
+div.projects {
+	padding: 10px 6vw;
+}
+
+h1 {
+	font-size: 3.5em;
+	margin-bottom: 0px;
+}
+
+h3 {
+	text-align: center;
+}
+
+h3.top-margin {
+	margin-top: 8vh;
+}
+
+div.header {
+	margin-left: 2vw;
+	margin-top: 30px;
+}
+
+body {
+	background-color: #fafaff;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.projects p {
+	font-weight: 300;
+}
